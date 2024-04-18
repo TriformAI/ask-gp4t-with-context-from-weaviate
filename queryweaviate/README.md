@@ -25,3 +25,4 @@ The `handler` function takes an input text from an event payload, generates an e
 Set the following environment variables:
 - `WEAVIATE_API_KEY`: Your Weaviate instance's API key.
 - `WEAVIATE_URL`: The URL endpoint for your Weaviate instance.
+- `OPENAI_API_KEY`: API key for OpenAI authentication.
